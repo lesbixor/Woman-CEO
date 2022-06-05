@@ -1,6 +1,4 @@
-# Woman CEO
-Hello, I'm Woman CEO.
-
+# Woman CEO - (she/her)
 I know very simple languages,
 - Python
 - HTML & CSS
