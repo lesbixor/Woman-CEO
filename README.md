@@ -1,5 +1,5 @@
 # Woman CEO - (she/her)
-I know very simple languages,
+I know a few very simple languages but hope to learn more!
 - Python
 - HTML & CSS
 - Javascript
