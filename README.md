@@ -1,4 +1,5 @@
-# Woman CEO - (she/her)
+# lesbixor's readme
+
 I know a few very simple languages but hope to learn more!
 - Python
 - HTML & CSS
